@@ -36,3 +36,4 @@ OPS445 Lab Report - System Information for running CheckLab1.py
     Working Directory: /home/mgstephenson/ops445/lab1/lab-1-MGStephenson
     Start at: Mon May 19 19:04:22 2025
 ===============================================================
+# Email: mgstephenson@myseneca.ca
